@@ -1,7 +1,7 @@
 
 # Webots-EchoSphereRobot
 
-![Webots simulation](https://drive.google.com/file/d/1Opp6ElXzyezGgBa0eE1ijwZweajAKpo1/view?usp=sharing)
+![Webots simulation](https://photos.app.goo.gl/Dir4D88jzCDGYQxCA) 
 
 ## Project Overview
 This repository contains the code for an autonomous robot designed to navigate through its environment, search for a specific ball using neural network, and respond to voice commands for additional functionalities like controlling lights. The robot is equipped with obstacle avoidance capabilities, making it adept for indoor navigation.
